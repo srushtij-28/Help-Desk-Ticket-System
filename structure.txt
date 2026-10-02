@@ -1,0 +1,36 @@
+📌 Features
+- Create support tickets
+- View all tickets
+- Search tickets
+- Update ticket status
+- Set priority
+- Assign tickets
+- Add comments
+- View ticket details
+- Delete tickets
+- Automatic ticket IDs
+- JSON data storage
+- Separate modules
+
+🛠️ Tech Stack
+- Python
+- JSON
+- File Handling
+- Datetime
+- Modular Programming
+
+📁 Folder Structure
+help-desk-ticket-system/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── ticket_manager.py
+├── user_manager.py
+├── utils.py
+│
+├── data/
+│   ├── tickets.json
+│   └── users.json
+│
+└── README.md
